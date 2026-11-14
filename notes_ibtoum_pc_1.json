@@ -1,5 +1,5 @@
 {
-  "activeClass": "2APIC-11",
+  "activeClass": "2APIC-9",
   "classes": {
     "1APIC-1": [],
     "1APIC-6": [
@@ -682,10 +682,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 8,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 8,
           "observations": ""
         }
       },
@@ -700,10 +700,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 9,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 9,
           "observations": ""
         }
       },
@@ -718,10 +718,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 11,
           "observations": ""
         }
       },
@@ -754,10 +754,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 8,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 11,
           "observations": ""
         }
       },
@@ -790,10 +790,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 9,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 9,
           "observations": ""
         }
       },
@@ -826,10 +826,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 15,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 15,
           "observations": ""
         }
       },
@@ -844,10 +844,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -880,10 +880,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 11,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -898,10 +898,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 15,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 15,
           "observations": ""
         }
       },
@@ -916,10 +916,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 16,
           "observations": ""
         }
       },
@@ -988,10 +988,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 18,
           "observations": ""
         }
       },
@@ -1006,10 +1006,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 18,
           "observations": ""
         }
       },
@@ -1042,10 +1042,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -1096,10 +1096,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 12,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -1114,7 +1114,7 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 14,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
           "participation": 18,
@@ -1132,10 +1132,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 11,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 14,
           "observations": ""
         }
       },
@@ -1222,10 +1222,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 12,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -1240,10 +1240,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 15,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -1258,10 +1258,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 14,
           "observations": ""
         }
       },
@@ -5302,7 +5302,7 @@
         "birthPlace": "اغرام لعلام دير القصيبة",
         "state": "Élève",
         "notes": {
-          "cahier": 14,
+          "cahier": 18,
           "controls": 0,
           "comportement": 8,
           "series": 20,
@@ -5428,10 +5428,10 @@
         "birthPlace": "اغرم لعلام",
         "state": "Élève",
         "notes": {
-          "cahier": 0,
+          "cahier": 20,
           "controls": 0,
           "comportement": 13,
-          "series": 0,
+          "series": 20,
           "devoirs": 0,
           "participation": 18,
           "observations": ""
