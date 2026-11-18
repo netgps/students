@@ -1,5 +1,5 @@
 {
-  "activeClass": "2APIC-10",
+  "activeClass": "1APIC-11",
   "classes": {
     "1APIC-1": [],
     "1APIC-6": [
@@ -3192,10 +3192,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 8,
+          "comportement": 12,
           "series": 0,
           "devoirs": 0,
-          "participation": 8,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -3210,10 +3210,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 7,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 7,
           "observations": ""
         }
       },
@@ -3282,10 +3282,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 16,
           "observations": ""
         }
       },
@@ -3300,10 +3300,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 13,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 14,
           "observations": ""
         }
       },
@@ -3318,10 +3318,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 11,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 11,
           "observations": ""
         }
       },
@@ -3356,9 +3356,9 @@
           "controls": 0,
           "comportement": 20,
           "series": 20,
-          "devoirs": 0,
+          "devoirs": 6,
           "participation": 20,
-          "observations": "ورشة +2"
+          "observations": "ورشة"
         }
       },
       {
@@ -3375,7 +3375,7 @@
           "comportement": 19,
           "series": 0,
           "devoirs": 0,
-          "participation": 19,
+          "participation": 17,
           "observations": ""
         }
       },
@@ -3390,10 +3390,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 16,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 16,
           "observations": ""
         }
       },
@@ -3426,10 +3426,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 12,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 16,
           "observations": ""
         }
       },
@@ -3462,10 +3462,10 @@
         "notes": {
           "cahier": 20,
           "controls": 0,
-          "comportement": 18,
+          "comportement": 19,
           "series": 20,
           "devoirs": 0,
-          "participation": 18,
+          "participation": 19,
           "observations": ""
         }
       },
@@ -3498,10 +3498,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 16,
           "observations": ""
         }
       },
@@ -3516,10 +3516,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 12,
           "observations": ""
         }
       },
@@ -3536,9 +3536,9 @@
           "controls": 0,
           "comportement": 12,
           "series": 0,
-          "devoirs": 0,
+          "devoirs": 4,
           "participation": 15,
-          "observations": ""
+          "observations": "ورشة"
         }
       },
       {
@@ -3552,11 +3552,11 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 16,
-          "series": 19,
+          "comportement": 17,
+          "series": 20,
           "devoirs": 0,
-          "participation": 18,
-          "observations": "الانشطة"
+          "participation": 19,
+          "observations": ""
         }
       },
       {
@@ -3568,12 +3568,12 @@
         "birthPlace": "قصبة تادلة",
         "state": "Élève",
         "notes": {
-          "cahier": 19,
+          "cahier": 20,
           "controls": 0,
-          "comportement": 19,
-          "series": 19,
+          "comportement": 20,
+          "series": 20,
           "devoirs": 0,
-          "participation": 19,
+          "participation": 20,
           "observations": ""
         }
       },
@@ -3606,11 +3606,11 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
-          "devoirs": 0,
-          "participation": 0,
-          "observations": ""
+          "devoirs": 5,
+          "participation": 16,
+          "observations": "ورشة"
         }
       },
       {
@@ -3624,10 +3624,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 10,
           "observations": ""
         }
       },
@@ -3662,9 +3662,9 @@
           "controls": 0,
           "comportement": 20,
           "series": 20,
-          "devoirs": 0,
+          "devoirs": 6,
           "participation": 20,
-          "observations": ""
+          "observations": "ورشة"
         }
       },
       {
@@ -3678,10 +3678,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 10,
           "observations": ""
         }
       },
@@ -3768,10 +3768,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 14,
           "observations": ""
         }
       },
@@ -3786,10 +3786,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 0,
+          "comportement": 14,
           "series": 0,
           "devoirs": 0,
-          "participation": 0,
+          "participation": 14,
           "observations": ""
         }
       }
@@ -5808,10 +5808,10 @@
         "birthPlace": "بني ملال",
         "state": "Élève",
         "notes": {
-          "cahier": 0,
+          "cahier": 19,
           "controls": 0,
           "comportement": 12,
-          "series": 0,
+          "series": 19,
           "devoirs": 0,
           "participation": 15,
           "observations": ""
