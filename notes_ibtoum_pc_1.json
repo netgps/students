@@ -1,5 +1,5 @@
 {
-  "activeClass": "1APIC-7",
+  "activeClass": "2APIC-11",
   "classes": {
     "1APIC-1": [],
     "1APIC-6": [
@@ -6658,10 +6658,10 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 8,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
-          "participation": 13,
+          "participation": 15,
           "observations": ""
         }
       },
@@ -6766,7 +6766,7 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 6,
+          "comportement": 9,
           "series": 0,
           "devoirs": 0,
           "participation": 15,
@@ -7126,7 +7126,7 @@
         "notes": {
           "cahier": 0,
           "controls": 0,
-          "comportement": 8,
+          "comportement": 10,
           "series": 0,
           "devoirs": 0,
           "participation": 16,
